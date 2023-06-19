@@ -15,6 +15,6 @@ Zoom API와 Youtube API를 활용한 LMS 사이트
 - **ORM** : Mybatis
 
 ## 맡은 역할
-    - spring boot 사용하여 공지사항,게시판 구현
-    - 웹소켓을 사용하여 실시간 채팅 및 알람 구현
-    - Zoom API를 사용하여 Zoom 회의 개설
+- spring boot 사용하여 공지사항,게시판 구현
+- 웹소켓을 사용하여 실시간 채팅 및 알람 구현
+- Zoom API를 사용하여 Zoom 회의 개설
