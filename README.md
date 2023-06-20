@@ -8,6 +8,7 @@ Zoom API와 Youtube API를 활용한 LMS 사이트
 - 23년 4월 1일 ~ 23년 4월 30일 ( 1달 )
 
 ## 개발환경
+- 개발인원 : 6명
 - `Java 11`
 - **IDE** : VSCode
 - **Framework** : Springboot(2.x)
